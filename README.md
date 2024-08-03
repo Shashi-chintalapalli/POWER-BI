@@ -6,7 +6,7 @@ This repository contains a Power BI HR Analytics Dashboard designed to track and
 
 ## Dashboard Overview
 
-![HR Analytics Dashboard](https://github.com/Shashi-chintalapalli/Power-BI/main/Hr Dashboard.png)
+![HR Analytics Dashboard](Hr Dashboard.png)
 
 ### Key Metrics
 
